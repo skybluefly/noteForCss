@@ -8,6 +8,6 @@
 - 所有颜色值要设置6位，不要设置简写
 - margin属性也最好不用
 - 火狐邮箱文字align=“center”无法居中，要设置text-align:center
-- p标签的行间距在不同的邮箱显示会不一样会增大，可用span标签代替
+- p标签的行间距在不同的邮箱显示会不一样，可用span标签代替
 - 某些邮箱不支持背景图，要用img
 - tr可以设置的样式：background-color，不能设置border
